@@ -13,4 +13,6 @@ judul.pack(pady=15)
 
 lebelframe = tk.LabelFrame(
     root,
+    text="Input Nilai Mata Pelajaran",
+    
 )
