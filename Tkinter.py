@@ -12,5 +12,5 @@ judul = tk.Label(
 judul.pack(pady=15)
 
 lebelframe = tk.LabelFrame(
-    
+    root,
 )
