@@ -6,4 +6,5 @@ root.geometry("500x600")
 
 judul = tk.Label(
     root, 
-    text="Ap"
+    text="Aplikasi Prediksi Prodi Pilihan",
+    font=
