@@ -10,3 +10,7 @@ judul = tk.Label(
     font=("Arial", 16, "bold")
 )
 judul.pack(pady=15)
+
+lebelframe = tk.LabelFrame(
+    
+)
